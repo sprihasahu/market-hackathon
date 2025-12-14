@@ -16,4 +16,5 @@ MarketPulse wakes up on a schedule, fetches real-time stock data and news for ma
 2. Start Kestra server.
 3. Import `workflow.yaml`.
 4. Watch the agent analyze the market live!
-## sponsor ..
+## Sponsors
+- CodeRabbit AI
